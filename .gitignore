@@ -1,6 +1,9 @@
 # Claude Code
 .claude/
 
+# Private docs
+Docs/
+
 # Build output
 build/
 build-intermediate/
