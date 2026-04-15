@@ -1,3 +1,6 @@
+# Claude Code
+.claude/
+
 # Build output
 build/
 build-intermediate/
