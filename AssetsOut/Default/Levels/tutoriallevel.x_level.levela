@@ -1,0 +1,18 @@
+LevelLoader.CreateGameObject("PEObject11_tArrow",-0.986732, -0.0, 0.162359, 0.0, 0.0, 1.0, 0.0, 0.0, -0.162359, -0.0, -0.986732, 0.0, -457.625736, 0.0, 1529.383888, 1.0, 'TutorialLevel.x_PEObject11_tArro.lua', 'Default',0xd18314c0, 0xf2f611ef, 0x8c40ec91, 0xc55aaf06)
+
+LevelLoader.CreateGameObject("PEObject2_pCar",0.015772, 0.0, 0.94092, 0.0, 0.0, 0.941052, -0.0, 0.0, -0.94092, -0.0, 0.015772, 0.0, -484.826751, 0.0, 557.295063, 1.0, 'TutorialLevel.x_PEObject2_pCar.lua', 'Default',0xbeb40a21, 0xdee211ef, 0x92e19ab5, 0xf29f81e7)
+
+LevelLoader.CreateGameObject("PEObject5_polySurface1",0.601028, -0.301943, 0.739997, 0.0, -0.079441, 0.898735, 0.431235, 0.0, -0.79527, -0.317971, 0.516179, 0.0, 679.607171, 497.437233, -456.465155, 1.0, 'TutorialLevel.x_PEObject5_polySu.lua', 'Default',0xbe73c500, 0xdf5f11ef, 0xb9969ab5, 0xf29f81e7)
+
+LevelLoader.CreateGameObject("PEObject9_tArrow",-0.444217, 0.0, 0.895919, 0.0, 0.0, 1.0, -0.0, 0.0, -0.895919, -0.0, -0.444217, 0.0, 1620.04284, 0.0, 522.638611, 1.0, 'TutorialLevel.x_PEObject9_tArrow.lua', 'Default',0x8df4d96e, 0xf1a011ef, 0xac9aec91, 0xc55aaf06)
+
+LevelLoader.CreateGameObject("PEObject6_Tstreetlight",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -757.756486, 0.0, 129.254679, 1.0, 'TutorialLevel.x_PEObject6_Tstree.lua', 'Default',0x011ec430, 0xdf6111ef, 0x95109ab5, 0xf29f81e7)
+
+LevelLoader.CreateGameObject("PEObject7_TspotRep",1.0, 0.0, 0.0, 0.0, -0.0, 0.0, 1.0, 0.0, -0.0, -1.0, 0.0, 0.0, -759.268239, 258.247221, 129.377967, 1.0, 'TutorialLevel.x_PEObject7_TspotR.lua', 'Default',0x2dc85461, 0xdf6111ef, 0xa54c9ab5, 0xf29f81e7)
+
+LevelLoader.CreateGameObject("PEObject4_pPlane1",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -8.326546, 0.0, -453.05536, 1.0, 'TutorialLevel.x_PEObject4_pPlane.lua', 'Default',0x622d2e30, 0xdf5f11ef, 0x99959ab5, 0xf29f81e7)
+
+LevelLoader.CreateGameObject("PEObject10_nazi_rep",1.0, 0.0, -0.0, 0.0, 0.0, 1.0, -0.0, 0.0, -0.0, -0.0, 1.0, 0.0, -575.075907, 0.0, -0.0, 1.0, 'TutorialLevel.x_PEObject10_nazi_.lua', 'Default',0xaf69c29e, 0xf1a011ef, 0x9e5dec91, 0xc55aaf06)
+
+LevelLoader.CreateGameObject("PEObject8_tArrow",0.316949, 0.0, -0.948443, 0.0, -0.0, 1.0, -0.0, 0.0, 0.948443, 0.0, 0.316949, 0.0, -607.154428, 0.0, -353.445665, 1.0, 'TutorialLevel.x_PEObject8_tArrow.lua', 'Default',0x4979b8b0, 0xf1a011ef, 0xaa24ec91, 0xc55aaf06)
+

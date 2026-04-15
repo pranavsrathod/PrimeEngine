@@ -1,0 +1,31 @@
+# Build output
+build/
+build-intermediate/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.ncb
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# External large binaries — download separately
+External/DownloadedLibraries/Cg/
+External/DownloadedLibraries/FBX/
+External/DownloadedLibraries/FBX-PythonSDK-2014.1/
+External/DownloadedLibraries/OpenAL/
+External/DownloadedLibraries/glew-1.9.0/
+External/DownloadedLibraries/ListCollapse/
+External/DownloadedBinaries/
+External/CompiledSource/
+
+# Python
+*.pyc
+__pycache__/
+
+# OS
+Thumbs.db
+.DS_Store

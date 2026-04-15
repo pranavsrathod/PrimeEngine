@@ -1,0 +1,13 @@
+# Normalize line endings to LF in the repo, CRLF on Windows checkout
+* text=auto
+
+# Treat binary files as binary
+*.png binary
+*.dds binary
+*.tga binary
+*.wav binary
+*.x binary
+*.lib binary
+*.dll binary
+*.exe binary
+*.fbx binary
