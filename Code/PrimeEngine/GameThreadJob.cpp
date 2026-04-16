@@ -495,7 +495,7 @@ int ClientGame::runGameFrame()
 						PE::Components::SoundComponent* pSound = new(hSound) PE::Components::SoundComponent(*m_pContext, m_arena, hSound);
 						pSound->addDefaultComponents();
 
-						if (pSound->loadWav("../Code/PrimeEngine/Sound/SparkleSound.wav"))
+						if (pSound->loadWav("Code/PrimeEngine/Sound/SparkleSound.wav"))
 						{
 							pSound->play(true);
 							pSound->setPosition(Vector3(0.0f, 0.0f, 5.0f));  // or any world-space position
